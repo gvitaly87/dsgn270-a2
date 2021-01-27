@@ -1,5 +1,5 @@
 # DSGN270 - Assignment 2: Open Asset Hunt
-Vitaly Gins - Repository owner and maintainer.
+[Vitaly Gins](https://github.com/gvitaly87) - Repository owner and maintainer.
 
 ---
 ## Attributions
@@ -21,7 +21,6 @@ Vitaly Gins - Repository owner and maintainer.
 ### SVG
 * TattooMachine.svg vector by SVG Repo on [SVG Repo](https://www.svgrepo.com/svg/71426/tattoo-machine)
 * TattooMachineColor.svg vector by SVG Repo on [SVG Repo](https://www.svgrepo.com/svg/42832/tattoo)
-
   * [SVG Repo License](https://www.svgrepo.com/page/licensing/)
 
 ---
